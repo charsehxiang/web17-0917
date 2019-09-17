@@ -1,0 +1,76 @@
+/* index样式 */
+.fl{
+    float: left;
+}
+.bg-banner{
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;  /*让背景图片自适应*/
+}
+.banner-nav img{
+    width: 5.25rem;
+    height: 5.25rem;
+}
+.text-white{
+    font-size: 0.75rem !important;
+}
+.nav-tabs .nav-link.active{
+	color: #f7080b;
+}
+.cont{
+	background-color: #f5f6fa;
+}
+.con_nav>a{
+	color: #919191;
+}
+.subject .nav-link.active{
+	border: none;
+	border-bottom: 1px solid transparent;
+	border-bottom-color: #f7080b;
+}
+.subject .nav-link:hover{
+	border-color: #fff;
+	border-bottom-color: #f7080b;
+	color: #f7080b;
+}
+.subject a{
+	color: #919191;
+}
+.subject li{
+	margin-right: 0.8rem;
+}
+.card{
+	border-radius: 0;
+}
+.text-red{
+	color: #f7080b;
+}
+.card-body{
+	height: 5rem;
+}
+.ri a{
+	display: block;
+}
+.font{
+	font-size: 14px;
+	margin-top: 0.2rem;
+}
+.bor_col{
+	padding: 2.5rem 0; 
+}
+.bor_col div{
+	border-bottom: 1px solid #757575;
+}
+.bor_col a{
+	text-decoration: none;
+	margin-right: 0.5rem;
+	font-size: 0.9rem;
+}
+.bor_col p{
+	font-size: 0.9rem;
+}
+/* 人物图片大小 */
+.text-center img{
+    width: 5.25rem !important;
+    height: 5.25rem !important;
+}
